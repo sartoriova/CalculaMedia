@@ -1,9 +1,9 @@
 # Calcula Média
 
-Este código foi desenvolvido no primeiro ano do meu curso de TII.
+Este código foi desenvolvido agora que eu estou no terceiro ano do meu curso de TII.
 
-Foi o TCC da matéria "Algoritmos e Programação".
+Ele calcula a média de um aluno a partir de duas notas fornecidas pelo usuário. 
 
-É o funcionamento de uma gravadora de músicas, com o CRUD dos cantores, das músicas e das gravações.
+Lembrando: é para dispositivos movéis =)
 
-Linguagens usadas: Python.
+Linguagens usadas: Java.
